@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+A simulation of client side A free new technologies learning website with feature as add to Login, Sign-up search option with three different pages 
+Home, About and Contact-us.
 
-You can use the [editor on GitHub](https://github.com/ArinMangal12/NerdCoders-A-Coding-Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Follow the following steps to view the project:
+Click the link or if click is not possible then copy and paste this link in your url search.
+https://arinmangal12.github.io/NerdCoders-A-Coding-Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Follow the following steps to download the project:
+Download the folder IMG and index.html, about.html and contact.html respectively using clone or download option on the right of the repository. OR Create a folder in your laptop preferably on Desktop and then download the files inside the folder.
 
-### Markdown
+Once you are done with downloads please note that the names of files and images as well as the image folder must be same as the uploaded files in the repository since they have been used inside the codes with their paths.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As this is a responsive website so you can open this in mobile, ipad and laptop also.
 
-```markdown
-Syntax highlighted code block
+Now you are all set to view the project. You can see, home, about and contact-us, search and sign in buttons.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArinMangal12/NerdCoders-A-Coding-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+open "index.html" file with your browser(any).
